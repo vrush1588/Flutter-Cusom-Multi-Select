@@ -1,0 +1,22 @@
+name: flutter_custom_multi_select
+description: A Flutter package for creating a custom multi-select dialog with title and subtitle support.
+version: 0.0.1
+homepage: https://github.com/vrush1588/Flutter-Cusom-Multi-Select-
+repository: https://github.com/vrush1588/Flutter-Cusom-Multi-Select-
+issue_tracker: https://github.com/vrush1588/Flutter-Cusom-Multi-Select-/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

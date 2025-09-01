@@ -1,0 +1,16 @@
+name: my_package_example
+description: Example app for testing flutter_multi_select_dialog
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_custom_multi_select:
+    path: ../
+
+flutter:
+  uses-material-design: true
