@@ -19,6 +19,15 @@ Supports **title, subtitle per item**, custom button styles, and both **Dialog**
 
 ---
 
+## Screenshots
+
+### MultiSelect Dialog
+![Dialog Example](example/assets/screenshots/multi_select_dialog.png)
+
+### MultiSelect BottomSheet
+![BottomSheet Example](example/assets/screenshots/bottomsheet_multi_select.png)
+
+
 ## 🚀 Usage
 ```dart
 
