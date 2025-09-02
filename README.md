@@ -1,5 +1,10 @@
 # Flutter Custom Multi Select
 
+[![Flutter CI](https://github.com/vrush1588/Flutter-Cusom-Multi-Select/actions/workflows/flutter.yml/badge.svg)](https://github.com/vrush1588/Flutter-Cusom-Multi-Select/actions/workflows/flutter.yml)
+
+A Flutter package for customizable multi-select dialogs...
+
+
 A customizable multi-select dialog for Flutter 🚀  
 Supports **title, subtitle per item**, custom button styles, and both **Dialog** & **Bottom Sheet** modes.
 
