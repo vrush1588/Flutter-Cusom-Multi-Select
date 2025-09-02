@@ -12,5 +12,8 @@ dependencies:
   flutter_custom_multi_select:
     path: ../
 
+dev_dependencies:
+  flutter_lints: ^6.0.0
+
 flutter:
   uses-material-design: true
