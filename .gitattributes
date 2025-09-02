@@ -1,12 +1,16 @@
-# Always count Dart as Dart
+# Force Dart recognition
 *.dart linguist-language=Dart
 
-# Ignore dependencies
-ios/Pods/* linguist-vendored
-android/app/build/* linguist-vendored
-android/.gradle/* linguist-vendored
+# Ignore Flutter platform folders (boilerplate code)
+ios/* linguist-vendored
+android/* linguist-vendored
+windows/* linguist-vendored
+linux/* linguist-vendored
+macos/* linguist-vendored
+
+# Ignore build artifacts
 build/* linguist-vendored
 
-# Ignore generated Flutter files
+# Ignore generated Dart files
 *.g.dart linguist-generated
 *.freezed.dart linguist-generated
