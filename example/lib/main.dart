@@ -41,7 +41,7 @@ class _MultiSelectDemoState extends State<MultiSelectDemo> {
         items: items,
         selectedItems: selectedItems,
         onConfirm: (selected) =>{
-          this.selectedItems=selected,
+          selectedItems=selected,
           setState(() {
 
           })
